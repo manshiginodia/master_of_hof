@@ -1,0 +1,12 @@
+.display-box{
+    margin: 20px auto;
+    border: 1px solid black;
+    text-align: left;
+    color: blue;
+    padding: 0 30px ;
+    width: fit-content;
+}
+span
+{
+  padding: 0px 30px;
+}
